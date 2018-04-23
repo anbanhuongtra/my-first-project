@@ -8,3 +8,5 @@ D:\GitHub data\my-first-project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.cspro
 D:\GitHub data\my-first-project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
 D:\GitHub data\my-first-project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
 D:\GitHub data\my-first-project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\GitHub data\my-first-project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAccountProfile.resources
+D:\GitHub data\my-first-project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fTableManager.resources
