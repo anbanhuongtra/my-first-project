@@ -40,5 +40,10 @@ namespace QuanLyCafe
         {
             this.Close();
         }
+
+        private void fTableManager_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

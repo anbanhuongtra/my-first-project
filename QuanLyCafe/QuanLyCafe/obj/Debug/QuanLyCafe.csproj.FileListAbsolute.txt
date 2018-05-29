@@ -26,3 +26,4 @@ D:\GitHub\my-first-project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
 D:\GitHub\my-first-project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
 D:\GitHub\my-first-project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
 >>>>>>> 83ab1f1b44db73f6569d8713a8d9f5acff3892a4
+D:\GitHub data\my-first-project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
